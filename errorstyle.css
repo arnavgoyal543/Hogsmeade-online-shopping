@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;500&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: powderblue;
+}
+img{
+	border-radius: 500px;
+	margin-left: 450px;
+	margin-top: 70px;
+}
+h1{
+	text-align: center;
+	line-height: 90px;
+	transition: 0.2s;
+}
+a{
+	text-decoration: none;
+	font-size: 50px;
+	cursor: pointer;
+	margin-left: 600px;
+	color: snow;
+	transition: 0.7s;
+}
+a:hover{
+	color: black;
+}
